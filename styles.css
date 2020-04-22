@@ -1,0 +1,11 @@
+body{
+  /* display-flex: center; */
+  background: #e0eef7;
+}
+h3 {
+  font-size: 18px;
+  margin-top: 35px;
+  background: #0072bb;
+  color: white;
+  text-align: center;
+}
